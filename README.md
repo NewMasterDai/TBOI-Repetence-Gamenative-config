@@ -1,4 +1,4 @@
-# TBOI Repentance Active Config
+# TBOI Repentance Config
 
 A configuration profile enabling DLC functionality for The Binding of Isaac.
 
