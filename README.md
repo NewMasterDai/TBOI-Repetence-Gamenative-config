@@ -1,6 +1,6 @@
 # TBOI Repentance Active Config
 
-A configuration profile enabling Repentance DLC functionality for The Binding of Isaac.
+A configuration profile enabling DLC functionality for The Binding of Isaac.
 
 ## ⚠️ Important Notices
 - **Unofficial Project**: This repository is not affiliated with Nicalis, Edmund McMillen, or any official developers/publishers.
